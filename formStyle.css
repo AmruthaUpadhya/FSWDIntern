@@ -1,0 +1,28 @@
+#head{
+    text-align: center;
+    color: rgb(247, 10, 10);
+    border-style: double;
+    border-radius: 10px;
+    font-size: 30px;
+    border-width: 5px;
+    border-spacing: 10px;
+    margin-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#frame{
+    color: rgb(247, 10, 10);
+    font-size: larger;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#button1{
+    background-color: rgb(247, 10, 10);
+    color: rgb(240,243,69);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+
+}
+
